@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/algolia-FE-project/static/css/main.f6adf35a.css",
-    "main.js": "/algolia-FE-project/static/js/main.00758865.js",
+    "main.js": "/algolia-FE-project/static/js/main.995470b7.js",
     "index.html": "/algolia-FE-project/index.html",
     "main.f6adf35a.css.map": "/algolia-FE-project/static/css/main.f6adf35a.css.map",
-    "main.00758865.js.map": "/algolia-FE-project/static/js/main.00758865.js.map"
+    "main.995470b7.js.map": "/algolia-FE-project/static/js/main.995470b7.js.map"
   },
   "entrypoints": [
     "static/css/main.f6adf35a.css",
-    "static/js/main.00758865.js"
+    "static/js/main.995470b7.js"
   ]
 }
